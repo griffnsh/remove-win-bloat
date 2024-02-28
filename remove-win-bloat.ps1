@@ -15,6 +15,7 @@ Get-AppxPackage *Microsoft.MicrosoftSolitaireCollection*| Remove-AppxPackage
 Get-AppxPackage *Microsoft.GamingApp*| Remove-AppxPackage
 Get-AppxPackage *Microsoft.SkypeApp*| Remove-AppxPackage
 Get-AppxPackage *Microsoft.ZuneVideo*| Remove-AppxPackage
+Get-AppxPackage *Microsoft.BingWeather*| Remove-AppxPackage
 
 # Removing Xbox Bloat 
 
